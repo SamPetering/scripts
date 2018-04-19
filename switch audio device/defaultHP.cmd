@@ -1,2 +1,2 @@
 @echo off
-nircmd setdefaultsounddevice "SPDIF OUT" 1
+nircmd setdefaultsounddevice "Headphones" 1
