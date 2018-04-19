@@ -1,0 +1,4 @@
+@ECHO OFF
+title TESTING BATCH FILE
+echo TEST MESSAGE
+pause
